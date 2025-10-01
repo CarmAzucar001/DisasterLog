@@ -1,0 +1,12 @@
+3 08/17/2017 wind Texas-Lousiana Hurricane_Harvey 4 3
+1 11/01/1755 water Portugal Portugal_Tsunami 2 1
+-1 09/15/2024 eruption Hawaii Kilauea 3 64
+-3 02/10/2010 ground Chile Chile_Earthquake 8 1
+1 03/11/2011 water Japan Japan_Tsunami 2 1
+3 09/10/2017 wind Puerto Rico Hurricane_Maria 4 3
+-1 04/10/1815 eruption Indonesia Mt_Tambora 7 1
+-3 01/12/2010 ground Haiti Haiti_Earthquake 7 23
+1 12/26/2004 water Indonesia Indonesia_Tsunami 3 1
+3 09/10/2017 wind Florida Hurricane_Irma 4 3
+-1 03/27/1980 eruption Washington Mount_St_Helens 7 5
+-3 12/26/2004 ground Indonesia Indian_Ocean_Earthquake 9 1
